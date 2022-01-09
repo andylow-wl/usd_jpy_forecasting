@@ -1,6 +1,6 @@
 # usd_jpy_forecasting
 
-## Forecasting USD_JPY Volatility using STATA.
+Forecasting USD_JPY Volatility using STATA.
 
 ## Models used
 - ARCH
